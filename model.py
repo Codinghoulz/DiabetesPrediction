@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 # Replace this with your actual path to diabetes.csv
 
 
